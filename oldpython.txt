@@ -1,0 +1,6 @@
+Despite the rapid adoption of LLM chatbots, little is known about how they are used.
+We document the growth of ChatGPT’s consumer product from its launch in November 2022 through
+July 2025, when it had been adopted by around 10% of the world’s adult population.
+Early adopters were disproportionately male but the gender gap has narrowed dramatically, 
+and we find higher growth rates in lower-income countries. Using a privacy-preserving automated pipeline, 
+we classify usage patterns within a representative sample of ChatGPT conversations.
